@@ -1,4 +1,4 @@
-# 🚖 CarXpert - Cab Price Optimizer
+# 🚖 CarXpert - Cab Price Optimizer (https://carxpert.streamlit.app/)
 
 **CarXpert** is a smart, data-driven fare comparison and recommendation dashboard that helps users find the most affordable and available ride options (Car, Bike, Auto) in their city. Built using Python and Streamlit, CarXpert empowers users with real-time, actionable insights for choosing the best cab services from platforms like Ola, Uber, and Rapido.
 
