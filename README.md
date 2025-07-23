@@ -89,9 +89,9 @@ Users often face:
 ## Contact
 
 > **Created by Akash Kumar Rajak**  
-> GitHub: [YourGitHubUsername](https://github.com/AkashKumarRajak)
-> LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/akash-kumar-rajak-22a98623b/)
-> Email: akashkumarrajak200@gmail.com
+> GitHub: [YourGitHubUsername](https://github.com/AkashKumarRajak)<br>
+> LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/akash-kumar-rajak-22a98623b/)<br>
+> Email: akashkumarrajak200@gmail.com<br>
 
 ---
 
