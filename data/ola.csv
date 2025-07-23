@@ -1,0 +1,11 @@
+city,service,fare,estimated_time_min,availability
+Delhi,Ola Mini,180,10,Available
+Delhi,Ola Sedan,250,15,Available
+Mumbai,Ola Mini,160,12,Available
+Mumbai,Ola Prime,280,14,Unavailable
+Bangalore,Ola Mini,150,11,Available
+Bangalore,Ola Prime,270,13,Available
+Chennai,Ola Mini,140,9,Available
+Chennai,Ola Sedan,230,16,Unavailable
+Kolkata,Ola Mini,130,8,Available
+Kolkata,Ola Prime,250,12,Available

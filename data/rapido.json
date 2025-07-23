@@ -1,0 +1,74 @@
+[
+  {
+    "city": "Delhi",
+    "service": "Rapido Bike",
+    "fare": 90,
+    "estimated_time_min": 7,
+    "availability": "Available"
+  },
+  {
+    "city": "Delhi",
+    "service": "Rapido Auto",
+    "fare": 110,
+    "estimated_time_min": 8,
+    "availability": "Unavailable"
+  },
+  {
+    "city": "Mumbai",
+    "service": "Rapido Bike",
+    "fare": 85,
+    "estimated_time_min": 9,
+    "availability": "Available"
+  },
+  {
+    "city": "Mumbai",
+    "service": "Rapido Auto",
+    "fare": 120,
+    "estimated_time_min": 11,
+    "availability": "Available"
+  },
+  {
+    "city": "Bangalore",
+    "service": "Rapido Bike",
+    "fare": 80,
+    "estimated_time_min": 8,
+    "availability": "Available"
+  },
+  {
+    "city": "Bangalore",
+    "service": "Rapido Plus",
+    "fare": 130,
+    "estimated_time_min": 10,
+    "availability": "Available"
+  },
+  {
+    "city": "Chennai",
+    "service": "Rapido Bike",
+    "fare": 75,
+    "estimated_time_min": 7,
+    "availability": "Available"
+  },
+  {
+    "city": "Chennai",
+    "service": "Rapido Auto",
+    "fare": 100,
+    "estimated_time_min": 9,
+    "availability": "Unavailable"
+  },
+  {
+    "city": "Kolkata",
+    "service": "Rapido Bike",
+    "fare": 70,
+    "estimated_time_min": 7,
+    "availability": "Available"
+  },
+  {
+    "city": "Kolkata",
+    "service": "Rapido Plus",
+    "fare": 120,
+    "estimated_time_min": 11,
+    "availability": "Available"
+  }
+]
+
+

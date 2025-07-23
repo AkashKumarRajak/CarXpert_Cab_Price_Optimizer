@@ -1,0 +1,107 @@
+[
+  {
+    "city": "Delhi",
+    "service": "Uber Go",
+    "fare": 190,
+    "estimated_time_min": 11,
+    "availability": "Available"
+  },
+  {
+    "city": "Delhi",
+    "service": "Uber Premier",
+    "fare": 260,
+    "estimated_time_min": 14,
+    "availability": "Available"
+  },
+  {
+    "city": "Mumbai",
+    "service": "Uber Go",
+    "fare": 170,
+    "estimated_time_min": 13,
+    "availability": "Available"
+  },
+  {
+    "city": "Mumbai",
+    "service": "Uber XL",
+    "fare": 300,
+    "estimated_time_min": 15,
+    "availability": "Unavailable"
+  },
+  {
+    "city": "Bangalore",
+    "service": "Uber Go",
+    "fare": 160,
+    "estimated_time_min": 12,
+    "availability": "Available"
+  },
+  {
+    "city": "Bangalore",
+    "service": "Uber Premier",
+    "fare": 280,
+    "estimated_time_min": 13,
+    "availability": "Available"
+  },
+  {
+    "city": "Chennai",
+    "service": "Uber Go",
+    "fare": 150,
+    "estimated_time_min": 10,
+    "availability": "Available"
+  },
+  {
+    "city": "Chennai",
+    "service": "Uber XL",
+    "fare": 320,
+    "estimated_time_min": 16,
+    "availability": "Unavailable"
+  },
+  {
+    "city": "Kolkata",
+    "service": "Uber Go",
+    "fare": 140,
+    "estimated_time_min": 9,
+    "availability": "Available"
+  },
+  {
+    "city": "Kolkata",
+    "service": "Uber Premier",
+    "fare": 260,
+    "estimated_time_min": 12,
+    "availability": "Available"
+  },
+  {
+    "city": "Delhi",
+    "service": "Uber Auto",
+    "fare": 115,
+    "estimated_time_min": 8,
+    "availability": "Available"
+  },
+  {
+    "city": "Mumbai",
+    "service": "Uber Auto",
+    "fare": 100,
+    "estimated_time_min": 10,
+    "availability": "Available"
+  },
+  {
+    "city": "Bangalore",
+    "service": "Uber Auto",
+    "fare": 90,
+    "estimated_time_min": 9,
+    "availability": "Available"
+  },
+  {
+    "city": "Chennai",
+    "service": "Uber Auto",
+    "fare": 100,
+    "estimated_time_min": 5,
+    "availability": "Available"
+  },
+  {
+    "city": "Kolkata",
+    "service": "Uber Auto",
+    "fare": 65,
+    "estimated_time_min": 6,
+    "availability": "Available"
+  }
+]

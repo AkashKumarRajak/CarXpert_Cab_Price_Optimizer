@@ -1,0 +1,11 @@
+city,service,fare,estimated_time_min,availability
+Delhi,Uber Go,190,11,Available
+Delhi,Uber Premier,260,14,Available
+Mumbai,Uber Go,170,13,Available
+Mumbai,Uber XL,300,15,Unavailable
+Bangalore,Uber Go,160,12,Available
+Bangalore,Uber Premier,280,13,Available
+Chennai,Uber Go,150,10,Available
+Chennai,Uber XL,320,16,Unavailable
+Kolkata,Uber Go,140,9,Available
+Kolkata,Uber Premier,260,12,Available

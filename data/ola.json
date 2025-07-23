@@ -1,0 +1,72 @@
+[
+  {
+    "city": "Delhi",
+    "service": "Ola Mini",
+    "fare": 180,
+    "estimated_time_min": 10,
+    "availability": "Available"
+  },
+  {
+    "city": "Delhi",
+    "service": "Ola Sedan",
+    "fare": 250,
+    "estimated_time_min": 15,
+    "availability": "Available"
+  },
+  {
+    "city": "Mumbai",
+    "service": "Ola Mini",
+    "fare": 160,
+    "estimated_time_min": 12,
+    "availability": "Available"
+  },
+  {
+    "city": "Mumbai",
+    "service": "Ola Prime",
+    "fare": 280,
+    "estimated_time_min": 14,
+    "availability": "Unavailable"
+  },
+  {
+    "city": "Bangalore",
+    "service": "Ola Mini",
+    "fare": 150,
+    "estimated_time_min": 11,
+    "availability": "Available"
+  },
+  {
+    "city": "Bangalore",
+    "service": "Ola Prime",
+    "fare": 270,
+    "estimated_time_min": 13,
+    "availability": "Available"
+  },
+  {
+    "city": "Chennai",
+    "service": "Ola Mini",
+    "fare": 140,
+    "estimated_time_min": 9,
+    "availability": "Available"
+  },
+  {
+    "city": "Chennai",
+    "service": "Ola Sedan",
+    "fare": 230,
+    "estimated_time_min": 16,
+    "availability": "Unavailable"
+  },
+  {
+    "city": "Kolkata",
+    "service": "Ola Mini",
+    "fare": 130,
+    "estimated_time_min": 8,
+    "availability": "Available"
+  },
+  {
+    "city": "Kolkata",
+    "service": "Ola Prime",
+    "fare": 250,
+    "estimated_time_min": 12,
+    "availability": "Available"
+  }
+]

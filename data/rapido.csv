@@ -1,0 +1,11 @@
+city,service,fare,estimated_time_min,availability
+Delhi,Rapido Bike,90,7,Available
+Delhi,Rapido Auto,110,8,Available
+Mumbai,Rapido Bike,85,9,Available
+Mumbai,Rapido Auto,120,11,Unavailable
+Bangalore,Rapido Bike,80,8,Available
+Bangalore,Rapido Plus,130,10,Available
+Chennai,Rapido Bike,75,7,Available
+Chennai,Rapido Auto,100,9,Unavailable
+Kolkata,Rapido Bike,70,7,Available
+Kolkata,Rapido Plus,120,11,Available
